@@ -15,7 +15,7 @@
 
  ## Стек
 - React
-- Хуки
+- Хуки (useEffect, useContext, useReducer)
 
 
 ## Посмотреть
